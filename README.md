@@ -1,5 +1,5 @@
 <!-- Your Banner Image URL -->
-![Banner](https://path-to-your-banner-image.jpg)
+![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Felevate-your-twitter-profile-with-jujutsu-kaisen-header--34973334596585406%2F&psig=AOvVaw1SmFouwwtXw3gu6B8yQKuT&ust=1706793021593000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjYws7Zh4QDFQAAAAAdAAAAABAJ)
 
 # Your Name
 
