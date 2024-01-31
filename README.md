@@ -1,5 +1,5 @@
 <!-- Your Banner Image URL -->
-![Banner]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Felevate-your-twitter-profile-with-jujutsu-kaisen-header--34973334596585406%2F&psig=AOvVaw1SmFouwwtXw3gu6B8yQKuT&ust=1706793021593000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjYws7Zh4QDFQAAAAAdAAAAABAJ](https://i.pinimg.com/originals/39/1b/38/391b3827325e6df46999ee83418fc36a.jpg))
+![Banner]([[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Felevate-your-twitter-profile-with-jujutsu-kaisen-header--34973334596585406%2F&psig=AOvVaw1SmFouwwtXw3gu6B8yQKuT&ust=1706793021593000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjYws7Zh4QDFQAAAAAdAAAAABAJ](https://i.pinimg.com/originals/39/1b/38/391b3827325e6df46999ee83418fc36a.jpg)](https://github.com/ParamBarodia/param_barodia/blob/main/391b3827325e6df46999ee83418fc36a.jpg))
 
 # Your Name
 
