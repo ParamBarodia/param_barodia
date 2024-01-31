@@ -6,7 +6,7 @@
 <h1 align="center">Welcome to my GitHub profile</h1>
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=param-barodia&hide_border=true&show_icons=true" alt="Param Barodia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)">
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 </p>
 
 <p align="center">
