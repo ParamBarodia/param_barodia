@@ -19,7 +19,6 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://twitter.com/YourTwitterUsername" target="_blank"><img src="https://img.shields.io/twitter/follow/YourTwitterUsername?style=social&logo=twitter" alt="Twitter"></a>
-  <a href="[https://www.linkedin.com/in/YourLinkedInUsername](https://www.linkedin.com/in/param-barodia-60a09919b/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
+  <a href="[https://www.linkedin.com/in/param-barodia-60a09919b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
   <a href="https://github.com/ParamBarodia" target="_blank"><img src="https://img.shields.io/github/followers/ParamBarodia?style=social" alt="GitHub"></a>
 </p>
