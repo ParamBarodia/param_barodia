@@ -1,3 +1,6 @@
+<!-- Your Banner Image URL -->
+![Banner](https://path-to-your-banner-image.jpg)
+
 # Your Name
 
 🌌 Welcome to my GitHub Universe! 🚀
@@ -35,4 +38,3 @@ I'm a passionate developer exploring the vast realms of coding.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedin/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourtwitter)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com)
-
